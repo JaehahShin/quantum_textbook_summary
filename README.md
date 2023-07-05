@@ -2,7 +2,8 @@
 I am Jaehah Shin who is interested in quantum computing.
 I am a second year Engineering Science student at the University of Toronto.
 
-In this document, we explore the concept of quantum computing. I refer to the textbook "Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang."
+In this document, we explore the concept of quantum computing. 
+## I refer to the textbook "Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang."
 
 As I refer to this textbook and summarize it, the flow of this document is similar to the flow of that textbook.
 Also, all the exericse questions are from that textbook, and the solutions are worked by me first then checked from the website https://rioweil.github. io/assets/pdf/projects/solutions/nc-solutions.pdf.
