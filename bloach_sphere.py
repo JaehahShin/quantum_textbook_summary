@@ -1,3 +1,5 @@
+# Following code is used to visualize the bloch sphere through python for better understanding. 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -15,7 +17,6 @@ ax.plot_surface(x, y, z, color='b', alpha=0.3)
 bloch_vector = np.array([0.5, 0.5, 0.5])
 ax.quiver(0, 0, 0, bloch_vector[0], bloch_vector[1], bloch_vector[2], color='r')
 
-# Add labels
 ax.text(0, 0, 1.1, "|0⟩", color='black', ha='center')
 ax.text(0, 0, -1.1, "|1⟩", color='black', ha='center')
 
