@@ -1,5 +1,5 @@
 # Following code is used to visualize the bloch sphere through python for better understanding. 
-
+# used anaconda to run this code. 
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
